@@ -1,0 +1,1 @@
+"*.class" | Out-File -Encoding ascii .gitignore
